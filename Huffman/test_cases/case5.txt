@@ -1,0 +1,30 @@
+//sample 6
+//hold Multi-branch, free choose in letters and numbers, allow letter repeat
+//cost of all characters is different
+// student's code:
+//1)correct and is a huffman code
+//2)not a huffman code but result is correct
+------------------------------
+8
+_ 1 5 2 e 3 D 1 E 6 G 2 a 5 R 1
+2
+_ 0100
+5 011
+e 101
+D 0101
+E 11
+G 1000
+a 00
+R 1001
+_ 1100
+5 100
+e 101
+D 1101
+E 01
+G 1110
+a 00
+R 1111
+----------------------------------
+Out put:
+Yes
+Yes

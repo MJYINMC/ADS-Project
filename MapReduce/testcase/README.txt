@@ -1,0 +1,1 @@
+将caseX.txt重名名为input.txt并放置在二进制文件同目录下以执行

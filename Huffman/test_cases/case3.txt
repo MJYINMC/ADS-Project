@@ -1,0 +1,25 @@
+//sample 4
+//minimal N & M
+// student's code:
+//1)has a higher cost than optimal
+//2)have a prefix error
+//3)correct
+//4)correct and change 0-1 of the answer in(3)
+------------------------------
+2
+A 1 _  3
+4
+A 10
+_ 0
+A 01
+_ 0
+A 1
+_ 0
+A 0
+_ 1
+----------------------------------
+Out put:
+No
+No
+Yes
+Yes

@@ -1,0 +1,42 @@
+//sample 2
+//a normal case that hold Multi-branch, free choose in letters and numbers, allow letter repeat
+// student's code:
+//1)has a higher cost than optimal
+//2)have a prefix error
+//3)correct
+//4)correct and change 0-1 of the answer in(3)
+------------------------------
+6
+_ 1 5 2 e 3 D 1 E 6 G 2
+4
+_ 1
+5 000
+e 010
+D 0011
+E 0010
+G 011
+_ 0010
+5 000
+e 010
+D 0001
+E 1
+G 011
+_ 0010
+5 000
+e 010
+D 0011
+E 1
+G 011
+_ 1101
+5 111
+e 101
+D 1100
+E 0
+G 100
+
+----------------------------------
+Out put:
+No
+No
+Yes
+Yes

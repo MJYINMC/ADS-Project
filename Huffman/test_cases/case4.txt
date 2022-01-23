@@ -1,0 +1,20 @@
+//sample 5
+//a normal case that hold Multi-branch, free choose in letters and numbers, allow letter repeat
+//cost of all characters is the same
+// student's code:
+//1)not a huffman code but result is correct
+------------------------------
+8
+_ 1 5 1 e 1 D 1 E 1 G 1 a 1 R 1
+1
+_ 000
+5 001
+e 010
+D 011
+E 100
+G 101
+a 110
+R 111
+----------------------------------
+Out put:
+Yes
